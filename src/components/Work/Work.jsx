@@ -69,13 +69,22 @@ const Work = () => {
 				</div>
 
 				<div className="project">
-					<a href="https://github.com/tolusolaadeyemi/euphoria_hangman" target="_blank" rel="noopener noreferrer">
-						euphoria-hangman
+					<a href="https://github.com/tolusolaadeyemi/node-store-api" target="_blank" rel="noopener noreferrer">
+						node-store-api
 					</a>
-					<p className="projectTool">reactjs</p>
-					<p className="projectInfo">a quick, cute game of hangman for guessing euphoria character names. some react.js practice. </p>
+					<p className="projectTool">node.js, express, mongodb</p>
+					<p className="projectInfo">
+					simple node.js furniture store-api to practice searching, sorting and filtering through certain products by name, rating, company and price
+					</p>
 					<div className="projectIcons">
-						<a href="https://github.com/tolusolaadeyemi/euphoria_hangman" target="_blank" rel="noopener noreferrer">
+					<a
+							href="https://tolu-store-api.herokuapp.com/api/v1/products"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<BiLinkExternal />
+						</a>
+						<a href="https://github.com/tolusolaadeyemi/node-store-api" target="_blank" rel="noopener noreferrer">
 							<SiGithub />
 						</a>
 					</div>
