@@ -78,7 +78,7 @@ const Work = () => {
 					</p>
 					<div className="projectIcons">
 					<a
-							href="https://tolu-store-api.herokuapp.com/api/v1/products"
+							href="https://tolu-store-api.herokuapp.com/"
 							target="_blank"
 							rel="noopener noreferrer"
 						>
