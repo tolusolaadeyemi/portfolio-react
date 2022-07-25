@@ -68,7 +68,7 @@ const Home = () => {
 							<SiTwitter />
 						</a>
 						<a
-							href="https://www.linkedin.com/in/toluwanimi-sola-adeyemi-3b530116a/"
+							href="https://www.linkedin.com/in/toluwanimi-sola-adeyemi/"
 							target="_blank"
 							rel="noopener noreferrer"
 						>

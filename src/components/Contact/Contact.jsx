@@ -10,7 +10,7 @@ const Contact = () => {
 				<img src={contactImg} alt="contact" />
 				<div className="contactIcons">
 					<a
-						href="https://www.linkedin.com/in/toluwanimi-sola-adeyemi-3b530116a/"
+						href="https://www.linkedin.com/in/toluwanimi-sola-adeyemi/"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
