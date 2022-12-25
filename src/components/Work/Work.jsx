@@ -38,13 +38,6 @@ const Work = () => {
 					stackoverflow_lite is a platform where users can ask and answer questions as well as vote on most relevant/useful answers.
 					</p>
 					<div className="projectIcons">
-					<a
-							href="#"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<BiLinkExternal />
-						</a>
 						<a href="https://github.com/toluflw/stackoverflow_lite" target="_blank" rel="noopener noreferrer">
 							<SiGithub />
 						</a>
