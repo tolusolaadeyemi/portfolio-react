@@ -1,7 +1,6 @@
 import './Home.scss';
 import { useState, useRef } from 'react';
 import { SiTwitter, SiGithub, SiLinkedin } from 'react-icons/si';
-import { FaChevronDown} from 'react-icons/fa';
 import hero1 from '../../assets/faces/hero1.png';
 import hero2 from '../../assets/faces/hero2.png';
 import hero3 from '../../assets/faces/hero3.png';
@@ -28,10 +27,6 @@ const Home = () => {
 		}
 	};
 
-	const scrollDown = () => {
-		const scrollTo = document.querySelector('#stack')
-		scrollTo.scrollIntoView({ behavior: 'smooth', inline: 'nearest' });
-	};
 
 	return (
 		<div id="home">
@@ -67,10 +62,6 @@ const Home = () => {
 						>
 							<SiLinkedin />
 						</a>
-					</div>
-
-					<div className="scrollDown">
-						<FaChevronDown onClick={() => scrollDown()} />
 					</div>
 				</div>
 			</div>
