@@ -1,4 +1,3 @@
-import { BiLinkExternal } from 'react-icons/bi';
 import { SiGithub } from 'react-icons/si';
 import './Work.scss';
 
