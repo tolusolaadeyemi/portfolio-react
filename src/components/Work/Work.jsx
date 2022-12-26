@@ -8,7 +8,7 @@ const Work = () => {
 			<p className="introTxt">sum of my projects 🍓</p>
 			<div className="projects">
 				<div className="project">
-					<a href="https://tolu-book-management.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+					<a href="https://github.com/tolusolaadeyemi/book_management_system" target="_blank" rel="noopener noreferrer">
 						library-management-app
 					</a>
 					<p className="projectTool">python, django, postgresql, heroku </p>
@@ -16,9 +16,6 @@ const Work = () => {
 					a fullstack library management app that allows users to comment on/rate books borrowed. users can also view other people's comments/ratings.
 					</p>
 					<div className="projectIcons">
-						<a href="https://tolu-book-management.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-							<BiLinkExternal />
-						</a>
 						<a
 							href="https://github.com/tolusolaadeyemi/book_management_system"
 							target="_blank"
@@ -30,7 +27,7 @@ const Work = () => {
 				</div>
 
 				<div className="project">
-					<a href="https://github.com/tolusolaadeyemi/node-store-api" target="_blank" rel="noopener noreferrer">
+					<a href="https://github.com/toluflw/stackoverflow_lite" target="_blank" rel="noopener noreferrer">
 						stack-overflow-lite
 					</a>
 					<p className="projectTool">node.js, express, mysql, sequelize, mocha/chai</p>
